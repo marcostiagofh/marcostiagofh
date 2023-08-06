@@ -9,6 +9,7 @@ Cloud AWS, Azure, GCP
 ProductivityTracking Azure DevOps, Trello
 RPA Power Platform
 *adicionar botão spotify está ouvindo agora https://github.com/akellbl4/spotify-badge
+badges https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md
 next level github readme profile generator https://www.youtube.com/watch?v=n6d4KHSKqGk&ab_channel=codeSTACKr
 -->
 <div>
@@ -41,6 +42,7 @@ next level github readme profile generator https://www.youtube.com/watch?v=n6d4K
   <img align="center" alt="marcostiagofh-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="marcostiagofh-MongoDB" height="30" width="40" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png">
   <img align="center" alt="marcostiagofh-AWS" height="30" width="30" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png">  
+  
 </div>
 <br>
 <br>
