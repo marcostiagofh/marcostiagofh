@@ -1,3 +1,16 @@
+<!---TODO 
+Principais Tecnologias
+Linguagens C, C++, Javascript, Java, Python, R
+BI Microsoft PowerBI, Tableau
+ETL/Data Pipelines SSIS/SSAS, Talend, Apache HOP, Apache HOP, Apache PySpark, ODI
+Orchestration Kubernetes
+Containers Docker
+Cloud AWS, Azure, GCP
+ProductivityTracking Azure DevOps, Trello
+RPA Power Platform
+*adicionar botão spotify está ouvindo agora https://github.com/akellbl4/spotify-badge
+next level github readme profile generator https://www.youtube.com/watch?v=n6d4KHSKqGk&ab_channel=codeSTACKr
+-->
 <div>
     <h1>Olá, mundo! 👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
