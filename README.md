@@ -12,6 +12,11 @@ RPA Power Platform
 badges https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md
 next level github readme profile generator https://www.youtube.com/watch?v=n6d4KHSKqGk&ab_channel=codeSTACKr
 -->
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>    
 <div>
     <h1>Olá, mundo! 👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
@@ -29,6 +34,15 @@ next level github readme profile generator https://www.youtube.com/watch?v=n6d4K
    <a href = "https://open.spotify.com/user/21czsrx7yq24blpnkx2avuj3a"><img src="https://raw.githubusercontent.com/darksonic37/fix-spotify-icon/master/src/images/spotify_icon.ico" target="_blank"></a>
 
 </div>
+<div>     
+    <a href="https://drive.google.com/file/d/1avaW-Yq6lcZ5iNydcu0LFX0gMiNIw01_/view?usp=sharing" target="_blank"><img  src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" width=150px height=150px target="_blank"></a> 
+    <a href="https://drive.google.com/file/d/1gh585TA4OG6azvEnWgE8joAHOJOgwBaK/view?usp=sharing" target="_blank"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" height=150 width=150 target="_blank">  </a>    
+    <a href="https://drive.google.com/file/d/1WTxhuYJxS86Ej8gu9H7CqhlX0OcTtZ5o/view?usp=sharing" target="_blank"><img src="https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/52195i026166A8314559DC/image-dimensions/187x187?v=v2" height=150 width=150 target="_blank"></a>         
+    <a href="https://drive.google.com/file/d/1avaW-Yq6lcZ5iNydcu0LFX0gMiNIw01_/view?usp=sharing" target="_blank"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=150px height=150px target="_blank"></a> 
+    <a href="https://drive.google.com/file/d/1ckEwzKOBe9zj7hQMN1TthqC4wZaej7eA/view?usp=sharing" target="_blank"><img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/twitter_thumb_201604_image.png" width=150px height=150px target="_blank"></a> 
+     <a href="https://drive.google.com/file/d/1qWEqm7HSrI2vFz2UDny6OFmrNW7xMqc1/view?usp=sharing" target="_blank"><img src="https://hotmart.s3.amazonaws.com/product_pictures/300d9d01-21f8-4822-9534-1bef3d2a25e6/AZ500.png" width=150px height=150px target="_blank"></a> 
+    
+</div>   
 <br>
 <div align="center">
   <a href="https://github.com/marcostiagofh">
@@ -57,3 +71,4 @@ next level github readme profile generator https://www.youtube.com/watch?v=n6d4K
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=marcostiagofh&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/marcostiagofh/dio-lab-open-source)
+</body>
