@@ -35,6 +35,7 @@ next level github readme profile generator https://www.youtube.com/watch?v=n6d4K
 
 </div>
 <div>     
+    <h2>Tecnologias</h2>
     <a href="https://drive.google.com/file/d/1avaW-Yq6lcZ5iNydcu0LFX0gMiNIw01_/view?usp=sharing" target="_blank"><img  src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" width=150px height=150px target="_blank"></a> 
     <a href="https://drive.google.com/file/d/1gh585TA4OG6azvEnWgE8joAHOJOgwBaK/view?usp=sharing" target="_blank"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" height=150 width=150 target="_blank">  </a>    
     <a href="https://drive.google.com/file/d/1WTxhuYJxS86Ej8gu9H7CqhlX0OcTtZ5o/view?usp=sharing" target="_blank"><img src="https://www.googlecloudcommunity.com/gc/image/serverpage/image-id/52195i026166A8314559DC/image-dimensions/187x187?v=v2" height=150 width=150 target="_blank"></a>         
@@ -49,15 +50,15 @@ next level github readme profile generator https://www.youtube.com/watch?v=n6d4K
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostiagofh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostiagofh&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
-    <h2>Tecnologias</h2>
-  <img align="center" alt="marcostiagofh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="marcostiagofh-PowerBI" height="30" width="30" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
-  <img align="center" alt="marcostiagofh-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="marcostiagofh-MongoDB" height="30" width="40" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png">
-  <img align="center" alt="marcostiagofh-AWS" height="30" width="30" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png">  
-  
-</div>
+<!---
+<div style="display: inline_block"><br>    
+  <img align="center" alt="marcostiagofh-Python" height="150" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="marcostiagofh-PowerBI" height="150" width="150" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png">
+  <img align="center" alt="marcostiagofh-MySQL" height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="marcostiagofh-MongoDB" height="150" width="150" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png">
+  <img align="center" alt="marcostiagofh-cpp" height="150" width="150" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">  
+</div>    
+-->
 <br>
 <br>
 
